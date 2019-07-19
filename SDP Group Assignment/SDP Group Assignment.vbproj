@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCF5955B-C934-46FD-9351-677ACF4EDDD5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SDP_Group_Assignment.My.MyApplication</StartupObject>
+    <RootNamespace>SDP_Group_Assignment</RootNamespace>
+    <AssemblyName>SDP Group Assignment</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SDP Group Assignment.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SDP Group Assignment.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminMainPage.Designer.vb">
+      <DependentUpon>AdminMainPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMainPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewFeedback.Designer.vb">
+      <DependentUpon>AdminViewFeedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewFeedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookConsultation.Designer.vb">
+      <DependentUpon>BookConsultation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookConsultation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class1.vb" />
+    <Compile Include="ConsultationRecord.Designer.vb">
+      <DependentUpon>ConsultationRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultationRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultationReport.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ConsultationReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultationReport.vb">
+      <DependentUpon>ConsultationReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteConsultationSlot.Designer.vb">
+      <DependentUpon>DeleteConsultationSlot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteConsultationSlot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feedback.Designer.vb">
+      <DependentUpon>Feedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LecturerMainPage.Designer.vb">
+      <DependentUpon>LecturerMainPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LecturerMainPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LecturerNortification.Designer.vb">
+      <DependentUpon>LecturerNortification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LecturerNortification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PublishConsultationSchedule.Designer.vb">
+      <DependentUpon>PublishConsultationSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PublishConsultationSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublishTimetable.Designer.vb">
+      <DependentUpon>PublishTimetable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PublishTimetable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.vb">
+      <DependentUpon>Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectWeek.Designer.vb">
+      <DependentUpon>SelectWeek.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectWeek.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentCancelConsultation.Designer.vb">
+      <DependentUpon>StudentCancelConsultation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentCancelConsultation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentMainPage.Designer.vb">
+      <DependentUpon>StudentMainPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentMainPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentViewConsultationSlot.Designer.vb">
+      <DependentUpon>StudentViewConsultationSlot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentViewConsultationSlot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewLecturerTimetable.Designer.vb">
+      <DependentUpon>ViewLecturerTimetable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewLecturerTimetable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTimetable.Designer.vb">
+      <DependentUpon>ViewTimetable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewTimetable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminMainPage.resx">
+      <DependentUpon>AdminMainPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewFeedback.resx">
+      <DependentUpon>AdminViewFeedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookConsultation.resx">
+      <DependentUpon>BookConsultation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultation.rdlc" />
+    <EmbeddedResource Include="ConsultationRecord.resx">
+      <DependentUpon>ConsultationRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteConsultationSlot.resx">
+      <DependentUpon>DeleteConsultationSlot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedback.resx">
+      <DependentUpon>Feedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LecturerMainPage.resx">
+      <DependentUpon>LecturerMainPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LecturerNortification.resx">
+      <DependentUpon>LecturerNortification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublishConsultationSchedule.resx">
+      <DependentUpon>PublishConsultationSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublishTimetable.resx">
+      <DependentUpon>PublishTimetable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectWeek.resx">
+      <DependentUpon>SelectWeek.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentCancelConsultation.resx">
+      <DependentUpon>StudentCancelConsultation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentMainPage.resx">
+      <DependentUpon>StudentMainPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentViewConsultationSlot.resx">
+      <DependentUpon>StudentViewConsultationSlot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLecturerTimetable.resx">
+      <DependentUpon>ViewLecturerTimetable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewTimetable.resx">
+      <DependentUpon>ViewTimetable.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ConsultationReport.xsc">
+      <DependentUpon>ConsultationReport.xsd</DependentUpon>
+    </None>
+    <None Include="ConsultationReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ConsultationReport.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ConsultationReport.xss">
+      <DependentUpon>ConsultationReport.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bckg.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Total-logo-earth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bckground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black_arrow_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_button-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewtimetable.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publish consultation schedule.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultationrecord.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookconsultation.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vlecturertimetable.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feedbackstd.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correct.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrong.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nortification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\179386.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nortificationnonactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nortificationactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

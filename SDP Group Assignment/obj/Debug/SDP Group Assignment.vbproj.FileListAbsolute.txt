@@ -1,0 +1,362 @@
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentNortification.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentNortification.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerAppointment.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Sample.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Sample.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentNortification.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerAppointment.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+E:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+G:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+D:\Sem 5 new\SDP\Assignment\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentNortification.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+C:\Users\LENOVO\Desktop\New folder (2)\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.cache
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.compiled
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.cache
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.compiled
+C:\Users\Hoo Jun Yi\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+C:\Users\LENOVO\Desktop\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.cache
+G:\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.compiled
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.cache
+C:\Users\Hoo Jun Yi\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.compiled
+C:\Users\LENOVO\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+C:\Users\LENOVO\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+C:\Users\LENOVO\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+C:\Users\LENOVO\Desktop\sohai junyi\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+D:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+D:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+D:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+D:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+D:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+D:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+G:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+G:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+G:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+G:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+G:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojResolveAssemblyReference.cache
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.Cache
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.cache
+G:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\RdlCompile.compiled
+H:\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+H:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+H:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+H:\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe.config
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.exe
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.pdb
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\bin\Debug\SDP Group Assignment.xml
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbprojAssemblyReference.cache
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminMainPage.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.AdminViewFeedback.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.BookConsultation.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ConsultationRecord.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.DeleteConsultationSlot.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Feedback.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerMainPage.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.LecturerNortification.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Login.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Resources.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishConsultationSchedule.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.PublishTimetable.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.Report.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.SelectWeek.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentCancelConsultation.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentMainPage.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.StudentViewConsultationSlot.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewLecturerTimetable.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP_Group_Assignment.ViewTimetable.resources
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.GenerateResource.cache
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.vbproj.CopyComplete
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.exe
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.xml
+C:\Users\junyi\Desktop\All Project\SDP\SDP Group Assignment\SDP Group Assignment\obj\Debug\SDP Group Assignment.pdb
